@@ -1,3 +1,3 @@
-# Devops-first_project
+# Devops-first_project - Social Networking Site
 Multi VM vagrant setup
-Inclusion of five multi machine setup
+To launch a Social Networking Site
